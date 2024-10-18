@@ -1,0 +1,9 @@
+CSVtest,Source,name,date,height,weight
+weight,CSVmodified.csv,,,,
+81,CSVmodified.csv,,,,
+96,CSVmodified.csv,,,,
+,EXCELmodified.xlsx,Jen Smith,2019-05-02 00:00:00,153,50
+,EXCELmodified.xlsx,Sam Smith,2019-01-02 00:00:00,160,55
+,EXCELmodified.xlsx,George Smith,2018-05-06 00:00:00,168,60
+,JSONmodified.json,Joseph Redondo,06/05/2020,116,56
+,XMLmodified.xml,Johnny Smithy,12/19/2019,126,75
